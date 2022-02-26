@@ -1,2 +1,2 @@
-# Job-Data-Collection-Pipeline-FASTAPI-MONGODBCLOUD-
+# Job-Data-Collector
 Job-Data Collection Pipeline ( FASTAPI , MONGODBCLOUD)
