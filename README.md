@@ -15,3 +15,5 @@ Easy to customize as per personal account.
 -requirments.txt 
 
 **Update credentials.py in DBCONNECT folder with your own
+
+**Highly Recommend Using a Virtual Env
